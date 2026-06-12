@@ -172,7 +172,7 @@ if not simulacion_iniciada:
     st.markdown(
         """
         <div class="inicio-box">
-            <div class="inicio-icono">📦</div>
+            <div class="inicio-icono">💻</div>
             <div class="inicio-titulo">Inicio de Simulación</div>
             <div class="inicio-subtitulo">
                 Seleccione una fecha moviendo el slider para comenzar la simulación.<br>
