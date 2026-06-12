@@ -1,0 +1,361 @@
+id_venta,fecha,cantidad,precio_unitario,producto
+1,2026-03-12,23,6500,Sorrentinos Caseros
+2,2026-03-13,36,6500,Sorrentinos Caseros
+3,2026-03-16,33,6500,Sorrentinos Caseros
+4,2026-03-17,31,6500,Sorrentinos Caseros
+5,2026-03-18,30,6500,Sorrentinos Caseros
+6,2026-03-19,14,6500,Sorrentinos Caseros
+7,2026-03-20,15,6500,Sorrentinos Caseros
+8,2026-03-23,24,6500,Sorrentinos Caseros
+9,2026-03-24,21,6500,Sorrentinos Caseros
+10,2026-03-25,29,6500,Sorrentinos Caseros
+11,2026-03-26,18,6500,Sorrentinos Caseros
+12,2026-03-27,37,6500,Sorrentinos Caseros
+13,2026-03-30,9,6500,Sorrentinos Caseros
+14,2026-03-31,0,6500,Sorrentinos Caseros
+15,2026-04-01,0,6500,Sorrentinos Caseros
+16,2026-04-02,32,6500,Sorrentinos Caseros
+17,2026-04-03,41,6500,Sorrentinos Caseros
+18,2026-04-06,47,6500,Sorrentinos Caseros
+19,2026-04-07,45,6500,Sorrentinos Caseros
+20,2026-04-08,53,6500,Sorrentinos Caseros
+21,2026-04-09,42,6500,Sorrentinos Caseros
+22,2026-04-10,37,6500,Sorrentinos Caseros
+23,2026-04-13,41,6500,Sorrentinos Caseros
+24,2026-04-14,43,6500,Sorrentinos Caseros
+25,2026-04-15,59,6500,Sorrentinos Caseros
+26,2026-04-16,29,6500,Sorrentinos Caseros
+27,2026-04-17,24,6500,Sorrentinos Caseros
+28,2026-04-20,29,6500,Sorrentinos Caseros
+29,2026-04-21,30,6500,Sorrentinos Caseros
+30,2026-04-22,28,6500,Sorrentinos Caseros
+31,2026-04-23,26,6500,Sorrentinos Caseros
+32,2026-04-24,23,6500,Sorrentinos Caseros
+33,2026-04-27,11,6500,Sorrentinos Caseros
+34,2026-04-28,0,6500,Sorrentinos Caseros
+35,2026-04-29,0,6500,Sorrentinos Caseros
+36,2026-04-30,0,6500,Sorrentinos Caseros
+37,2026-05-01,36,6500,Sorrentinos Caseros
+38,2026-05-04,31,6500,Sorrentinos Caseros
+39,2026-05-05,45,6500,Sorrentinos Caseros
+40,2026-05-06,51,6500,Sorrentinos Caseros
+41,2026-05-07,27,6500,Sorrentinos Caseros
+42,2026-05-08,41,6500,Sorrentinos Caseros
+43,2026-05-11,30,6500,Sorrentinos Caseros
+44,2026-05-12,50,6500,Sorrentinos Caseros
+45,2026-05-13,9,6500,Sorrentinos Caseros
+46,2026-05-14,0,6500,Sorrentinos Caseros
+47,2026-05-15,0,6500,Sorrentinos Caseros
+48,2026-05-18,0,6500,Sorrentinos Caseros
+49,2026-05-19,0,6500,Sorrentinos Caseros
+50,2026-05-20,0,6500,Sorrentinos Caseros
+51,2026-05-21,31,6500,Sorrentinos Caseros
+52,2026-05-22,34,6500,Sorrentinos Caseros
+53,2026-05-25,36,6500,Sorrentinos Caseros
+54,2026-05-26,36,6500,Sorrentinos Caseros
+55,2026-05-27,40,6500,Sorrentinos Caseros
+56,2026-05-28,31,6500,Sorrentinos Caseros
+57,2026-05-29,22,6500,Sorrentinos Caseros
+58,2026-06-01,24,6500,Sorrentinos Caseros
+59,2026-06-02,21,6500,Sorrentinos Caseros
+60,2026-06-03,34,6500,Sorrentinos Caseros
+61,2026-06-04,11,6500,Sorrentinos Caseros
+62,2026-06-05,0,6500,Sorrentinos Caseros
+63,2026-06-08,0,6500,Sorrentinos Caseros
+64,2026-06-09,0,6500,Sorrentinos Caseros
+65,2026-06-10,33,6500,Sorrentinos Caseros
+66,2026-06-11,25,6500,Sorrentinos Caseros
+67,2026-06-12,23,6500,Sorrentinos Caseros
+68,2026-06-15,34,6500,Sorrentinos Caseros
+69,2026-06-16,22,6500,Sorrentinos Caseros
+70,2026-06-17,48,6500,Sorrentinos Caseros
+71,2026-06-18,28,6500,Sorrentinos Caseros
+72,2026-06-19,24,6500,Sorrentinos Caseros
+73,2026-06-22,21,6500,Sorrentinos Caseros
+74,2026-06-23,34,6500,Sorrentinos Caseros
+75,2026-06-24,28,6500,Sorrentinos Caseros
+76,2026-06-25,0,6500,Sorrentinos Caseros
+77,2026-06-26,0,6500,Sorrentinos Caseros
+78,2026-06-29,0,6500,Sorrentinos Caseros
+79,2026-06-30,27,6500,Sorrentinos Caseros
+80,2026-07-01,29,6500,Sorrentinos Caseros
+81,2026-07-02,30,6500,Sorrentinos Caseros
+82,2026-07-03,31,6500,Sorrentinos Caseros
+83,2026-07-06,26,6500,Sorrentinos Caseros
+84,2026-07-07,22,6500,Sorrentinos Caseros
+85,2026-07-08,34,6500,Sorrentinos Caseros
+86,2026-07-09,22,6500,Sorrentinos Caseros
+87,2026-07-10,33,6500,Sorrentinos Caseros
+88,2026-07-13,31,6500,Sorrentinos Caseros
+89,2026-07-14,35,6500,Sorrentinos Caseros
+90,2026-07-15,0,6500,Sorrentinos Caseros
+91,2026-03-12,14,5800,Ravioles de Verdura
+92,2026-03-13,24,5800,Ravioles de Verdura
+93,2026-03-16,25,5800,Ravioles de Verdura
+94,2026-03-17,22,5800,Ravioles de Verdura
+95,2026-03-18,33,5800,Ravioles de Verdura
+96,2026-03-19,13,5800,Ravioles de Verdura
+97,2026-03-20,15,5800,Ravioles de Verdura
+98,2026-03-23,14,5800,Ravioles de Verdura
+99,2026-03-24,11,5800,Ravioles de Verdura
+100,2026-03-25,15,5800,Ravioles de Verdura
+101,2026-03-26,13,5800,Ravioles de Verdura
+102,2026-03-27,23,5800,Ravioles de Verdura
+103,2026-03-30,19,5800,Ravioles de Verdura
+104,2026-03-31,22,5800,Ravioles de Verdura
+105,2026-04-01,17,5800,Ravioles de Verdura
+106,2026-04-02,25,5800,Ravioles de Verdura
+107,2026-04-03,33,5800,Ravioles de Verdura
+108,2026-04-06,40,5800,Ravioles de Verdura
+109,2026-04-07,29,5800,Ravioles de Verdura
+110,2026-04-08,34,5800,Ravioles de Verdura
+111,2026-04-09,26,5800,Ravioles de Verdura
+112,2026-04-10,28,5800,Ravioles de Verdura
+113,2026-04-13,43,5800,Ravioles de Verdura
+114,2026-04-14,22,5800,Ravioles de Verdura
+115,2026-04-15,0,5800,Ravioles de Verdura
+116,2026-04-16,0,5800,Ravioles de Verdura
+117,2026-04-17,0,5800,Ravioles de Verdura
+118,2026-04-20,0,5800,Ravioles de Verdura
+119,2026-04-21,0,5800,Ravioles de Verdura
+120,2026-04-22,29,5800,Ravioles de Verdura
+121,2026-04-23,22,5800,Ravioles de Verdura
+122,2026-04-24,27,5800,Ravioles de Verdura
+123,2026-04-27,19,5800,Ravioles de Verdura
+124,2026-04-28,17,5800,Ravioles de Verdura
+125,2026-04-29,24,5800,Ravioles de Verdura
+126,2026-04-30,25,5800,Ravioles de Verdura
+127,2026-05-01,36,5800,Ravioles de Verdura
+128,2026-05-04,37,5800,Ravioles de Verdura
+129,2026-05-05,22,5800,Ravioles de Verdura
+130,2026-05-06,22,5800,Ravioles de Verdura
+131,2026-05-07,0,5800,Ravioles de Verdura
+132,2026-05-08,0,5800,Ravioles de Verdura
+133,2026-05-11,0,5800,Ravioles de Verdura
+134,2026-05-12,28,5800,Ravioles de Verdura
+135,2026-05-13,50,5800,Ravioles de Verdura
+136,2026-05-14,16,5800,Ravioles de Verdura
+137,2026-05-15,22,5800,Ravioles de Verdura
+138,2026-05-18,24,5800,Ravioles de Verdura
+139,2026-05-19,20,5800,Ravioles de Verdura
+140,2026-05-20,36,5800,Ravioles de Verdura
+141,2026-05-21,23,5800,Ravioles de Verdura
+142,2026-05-22,18,5800,Ravioles de Verdura
+143,2026-05-25,22,5800,Ravioles de Verdura
+144,2026-05-26,19,5800,Ravioles de Verdura
+145,2026-05-27,2,5800,Ravioles de Verdura
+146,2026-05-28,0,5800,Ravioles de Verdura
+147,2026-05-29,0,5800,Ravioles de Verdura
+148,2026-06-01,22,5800,Ravioles de Verdura
+149,2026-06-02,16,5800,Ravioles de Verdura
+150,2026-06-03,25,5800,Ravioles de Verdura
+151,2026-06-04,23,5800,Ravioles de Verdura
+152,2026-06-05,18,5800,Ravioles de Verdura
+153,2026-06-08,17,5800,Ravioles de Verdura
+154,2026-06-09,21,5800,Ravioles de Verdura
+155,2026-06-10,36,5800,Ravioles de Verdura
+156,2026-06-11,15,5800,Ravioles de Verdura
+157,2026-06-12,24,5800,Ravioles de Verdura
+158,2026-06-15,25,5800,Ravioles de Verdura
+159,2026-06-16,18,5800,Ravioles de Verdura
+160,2026-06-17,20,5800,Ravioles de Verdura
+161,2026-06-18,0,5800,Ravioles de Verdura
+162,2026-06-19,23,5800,Ravioles de Verdura
+163,2026-06-22,23,5800,Ravioles de Verdura
+164,2026-06-23,22,5800,Ravioles de Verdura
+165,2026-06-24,21,5800,Ravioles de Verdura
+166,2026-06-25,22,5800,Ravioles de Verdura
+167,2026-06-26,19,5800,Ravioles de Verdura
+168,2026-06-29,18,5800,Ravioles de Verdura
+169,2026-06-30,16,5800,Ravioles de Verdura
+170,2026-07-01,30,5800,Ravioles de Verdura
+171,2026-07-02,20,5800,Ravioles de Verdura
+172,2026-07-03,15,5800,Ravioles de Verdura
+173,2026-07-06,22,5800,Ravioles de Verdura
+174,2026-07-07,18,5800,Ravioles de Verdura
+175,2026-07-08,11,5800,Ravioles de Verdura
+176,2026-07-09,15,5800,Ravioles de Verdura
+177,2026-07-10,24,5800,Ravioles de Verdura
+178,2026-07-13,20,5800,Ravioles de Verdura
+179,2026-07-14,27,5800,Ravioles de Verdura
+180,2026-07-15,22,5800,Ravioles de Verdura
+181,2026-03-12,13,4200,Ñoquis Caseros
+182,2026-03-13,13,4200,Ñoquis Caseros
+183,2026-03-16,22,4200,Ñoquis Caseros
+184,2026-03-17,21,4200,Ñoquis Caseros
+185,2026-03-18,19,4200,Ñoquis Caseros
+186,2026-03-19,11,4200,Ñoquis Caseros
+187,2026-03-20,14,4200,Ñoquis Caseros
+188,2026-03-23,12,4200,Ñoquis Caseros
+189,2026-03-24,12,4200,Ñoquis Caseros
+190,2026-03-25,13,4200,Ñoquis Caseros
+191,2026-03-26,11,4200,Ñoquis Caseros
+192,2026-03-27,21,4200,Ñoquis Caseros
+193,2026-03-30,21,4200,Ñoquis Caseros
+194,2026-03-31,19,4200,Ñoquis Caseros
+195,2026-04-01,21,4200,Ñoquis Caseros
+196,2026-04-02,22,4200,Ñoquis Caseros
+197,2026-04-03,32,4200,Ñoquis Caseros
+198,2026-04-06,35,4200,Ñoquis Caseros
+199,2026-04-07,18,4200,Ñoquis Caseros
+200,2026-04-08,0,4200,Ñoquis Caseros
+201,2026-04-09,0,4200,Ñoquis Caseros
+202,2026-04-10,0,4200,Ñoquis Caseros
+203,2026-04-13,23,4200,Ñoquis Caseros
+204,2026-04-14,35,4200,Ñoquis Caseros
+205,2026-04-15,39,4200,Ñoquis Caseros
+206,2026-04-16,10,4200,Ñoquis Caseros
+207,2026-04-17,13,4200,Ñoquis Caseros
+208,2026-04-20,19,4200,Ñoquis Caseros
+209,2026-04-21,12,4200,Ñoquis Caseros
+210,2026-04-22,18,4200,Ñoquis Caseros
+211,2026-04-23,15,4200,Ñoquis Caseros
+212,2026-04-24,19,4200,Ñoquis Caseros
+213,2026-04-27,19,4200,Ñoquis Caseros
+214,2026-04-28,15,4200,Ñoquis Caseros
+215,2026-04-29,26,4200,Ñoquis Caseros
+216,2026-04-30,18,4200,Ñoquis Caseros
+217,2026-05-01,22,4200,Ñoquis Caseros
+218,2026-05-04,28,4200,Ñoquis Caseros
+219,2026-05-05,19,4200,Ñoquis Caseros
+220,2026-05-06,0,4200,Ñoquis Caseros
+221,2026-05-07,0,4200,Ñoquis Caseros
+222,2026-05-08,0,4200,Ñoquis Caseros
+223,2026-05-11,0,4200,Ñoquis Caseros
+224,2026-05-12,23,4200,Ñoquis Caseros
+225,2026-05-13,28,4200,Ñoquis Caseros
+226,2026-05-14,12,4200,Ñoquis Caseros
+227,2026-05-15,22,4200,Ñoquis Caseros
+228,2026-05-18,16,4200,Ñoquis Caseros
+229,2026-05-19,21,4200,Ñoquis Caseros
+230,2026-05-20,24,4200,Ñoquis Caseros
+231,2026-05-21,17,4200,Ñoquis Caseros
+232,2026-05-22,17,4200,Ñoquis Caseros
+233,2026-05-25,18,4200,Ñoquis Caseros
+234,2026-05-26,17,4200,Ñoquis Caseros
+235,2026-05-27,19,4200,Ñoquis Caseros
+236,2026-05-28,17,4200,Ñoquis Caseros
+237,2026-05-29,15,4200,Ñoquis Caseros
+238,2026-06-01,12,4200,Ñoquis Caseros
+239,2026-06-02,19,4200,Ñoquis Caseros
+240,2026-06-03,18,4200,Ñoquis Caseros
+241,2026-06-04,18,4200,Ñoquis Caseros
+242,2026-06-05,17,4200,Ñoquis Caseros
+243,2026-06-08,0,4200,Ñoquis Caseros
+244,2026-06-09,0,4200,Ñoquis Caseros
+245,2026-06-10,16,4200,Ñoquis Caseros
+246,2026-06-11,18,4200,Ñoquis Caseros
+247,2026-06-12,17,4200,Ñoquis Caseros
+248,2026-06-15,22,4200,Ñoquis Caseros
+249,2026-06-16,22,4200,Ñoquis Caseros
+250,2026-06-17,27,4200,Ñoquis Caseros
+251,2026-06-18,13,4200,Ñoquis Caseros
+252,2026-06-19,16,4200,Ñoquis Caseros
+253,2026-06-22,21,4200,Ñoquis Caseros
+254,2026-06-23,15,4200,Ñoquis Caseros
+255,2026-06-24,18,4200,Ñoquis Caseros
+256,2026-06-25,15,4200,Ñoquis Caseros
+257,2026-06-26,22,4200,Ñoquis Caseros
+258,2026-06-29,19,4200,Ñoquis Caseros
+259,2026-06-30,18,4200,Ñoquis Caseros
+260,2026-07-01,17,4200,Ñoquis Caseros
+261,2026-07-02,16,4200,Ñoquis Caseros
+262,2026-07-03,22,4200,Ñoquis Caseros
+263,2026-07-06,14,4200,Ñoquis Caseros
+264,2026-07-07,2,4200,Ñoquis Caseros
+265,2026-07-08,0,4200,Ñoquis Caseros
+266,2026-07-09,17,4200,Ñoquis Caseros
+267,2026-07-10,19,4200,Ñoquis Caseros
+268,2026-07-13,19,4200,Ñoquis Caseros
+269,2026-07-14,16,4200,Ñoquis Caseros
+270,2026-07-15,20,4200,Ñoquis Caseros
+271,2026-03-12,13,7200,Canelones
+272,2026-03-13,16,7200,Canelones
+273,2026-03-16,16,7200,Canelones
+274,2026-03-17,16,7200,Canelones
+275,2026-03-18,17,7200,Canelones
+276,2026-03-19,8,7200,Canelones
+277,2026-03-20,11,7200,Canelones
+278,2026-03-23,10,7200,Canelones
+279,2026-03-24,10,7200,Canelones
+280,2026-03-25,14,7200,Canelones
+281,2026-03-26,14,7200,Canelones
+282,2026-03-27,12,7200,Canelones
+283,2026-03-30,12,7200,Canelones
+284,2026-03-31,10,7200,Canelones
+285,2026-04-01,18,7200,Canelones
+286,2026-04-02,13,7200,Canelones
+287,2026-04-03,21,7200,Canelones
+288,2026-04-06,22,7200,Canelones
+289,2026-04-07,19,7200,Canelones
+290,2026-04-08,29,7200,Canelones
+291,2026-04-09,9,7200,Canelones
+292,2026-04-10,0,7200,Canelones
+293,2026-04-13,25,7200,Canelones
+294,2026-04-14,20,7200,Canelones
+295,2026-04-15,22,7200,Canelones
+296,2026-04-16,11,7200,Canelones
+297,2026-04-17,15,7200,Canelones
+298,2026-04-20,11,7200,Canelones
+299,2026-04-21,14,7200,Canelones
+300,2026-04-22,13,7200,Canelones
+301,2026-04-23,8,7200,Canelones
+302,2026-04-24,13,7200,Canelones
+303,2026-04-27,13,7200,Canelones
+304,2026-04-28,14,7200,Canelones
+305,2026-04-29,20,7200,Canelones
+306,2026-04-30,20,7200,Canelones
+307,2026-05-01,19,7200,Canelones
+308,2026-05-04,17,7200,Canelones
+309,2026-05-05,22,7200,Canelones
+310,2026-05-06,21,7200,Canelones
+311,2026-05-07,12,7200,Canelones
+312,2026-05-08,0,7200,Canelones
+313,2026-05-11,0,7200,Canelones
+314,2026-05-12,24,7200,Canelones
+315,2026-05-13,29,7200,Canelones
+316,2026-05-14,12,7200,Canelones
+317,2026-05-15,12,7200,Canelones
+318,2026-05-18,11,7200,Canelones
+319,2026-05-19,10,7200,Canelones
+320,2026-05-20,15,7200,Canelones
+321,2026-05-21,11,7200,Canelones
+322,2026-05-22,15,7200,Canelones
+323,2026-05-25,14,7200,Canelones
+324,2026-05-26,11,7200,Canelones
+325,2026-05-27,22,7200,Canelones
+326,2026-05-28,13,7200,Canelones
+327,2026-05-29,14,7200,Canelones
+328,2026-06-01,14,7200,Canelones
+329,2026-06-02,13,7200,Canelones
+330,2026-06-03,15,7200,Canelones
+331,2026-06-04,10,7200,Canelones
+332,2026-06-05,15,7200,Canelones
+333,2026-06-08,9,7200,Canelones
+334,2026-06-09,10,7200,Canelones
+335,2026-06-10,13,7200,Canelones
+336,2026-06-11,8,7200,Canelones
+337,2026-06-12,16,7200,Canelones
+338,2026-06-15,15,7200,Canelones
+339,2026-06-16,13,7200,Canelones
+340,2026-06-17,13,7200,Canelones
+341,2026-06-18,11,7200,Canelones
+342,2026-06-19,13,7200,Canelones
+343,2026-06-22,11,7200,Canelones
+344,2026-06-23,13,7200,Canelones
+345,2026-06-24,16,7200,Canelones
+346,2026-06-25,12,7200,Canelones
+347,2026-06-26,14,7200,Canelones
+348,2026-06-29,10,7200,Canelones
+349,2026-06-30,12,7200,Canelones
+350,2026-07-01,19,7200,Canelones
+351,2026-07-02,11,7200,Canelones
+352,2026-07-03,16,7200,Canelones
+353,2026-07-06,14,7200,Canelones
+354,2026-07-07,11,7200,Canelones
+355,2026-07-08,13,7200,Canelones
+356,2026-07-09,12,7200,Canelones
+357,2026-07-10,9,7200,Canelones
+358,2026-07-13,14,7200,Canelones
+359,2026-07-14,12,7200,Canelones
+360,2026-07-15,0,7200,Canelones
